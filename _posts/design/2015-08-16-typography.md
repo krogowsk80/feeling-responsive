@@ -280,7 +280,7 @@ Need a break? I give you three!<br><br><br>
 If you need footnotes for your posts, articles and entries, the Kramdown-Parser [^1] got you covered. How to use footnotes? Read this footnote. [^2]
 
  [1]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
- [2]: http://phlow.de/
+ [2]: https://krogowsk80.github.io/north.garden/
  [3]: http://en.wikipedia.org/wiki/Ed_Benguiat
  [4]: https://www.google.com/fonts/specimen/Lato
  [5]: https://www.google.com/fonts/specimen/Volkhov

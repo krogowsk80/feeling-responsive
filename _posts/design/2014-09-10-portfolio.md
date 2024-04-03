@@ -16,7 +16,7 @@ categories:
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
-        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
+        <p>Website: <a href="https://krogowsk80.github.io/north.garden/">Our Home's North Garden</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
