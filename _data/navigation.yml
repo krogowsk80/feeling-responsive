@@ -54,13 +54,6 @@
   dropdown:
   - title: "Plant Guides"
     url: "/plant-and-grow/plant-guides/"
-    subdropdown:
-      - title: "Small Garden Guide"
-        url: "/plant-and-grow/small-garden-guides/"
-      - title: "Medium Garden Guide"
-        url: "/plant-and-grow/medium-garden-guides/"
-      - title: "Large Garden Guide"
-        url: "/plant-and-grow/large-garden-guides/"
   - title: "Plant Vegetables"
     url: "/plant-and-grow/plant-vegetables/"      
   - title: "Plant Herbs"
