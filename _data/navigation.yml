@@ -51,7 +51,7 @@
   dropdown:
   - title: "Plant Guides"
     url: "/plant-and-grow/plant-guides/"
-    side: left
+    side: right
     dropdown:
       - title: "Small Garden Guide"
         url: "/plant-and-grow/small-garden-guides/"
