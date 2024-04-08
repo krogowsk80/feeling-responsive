@@ -19,6 +19,7 @@
     url: "/garden-design/raised-garden-bed/"
   - title: "Preparing Raised Garden Soil"
     url: "/garden-design/raised-garden-soil/"    
+  dropdown-end: true
 
 - title: "Templates"
   url: "/design/"
@@ -44,6 +45,7 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
+  dropdown-end: true
 
 ## Planting sub-headding with list of pages covering how to plant a variety of herbs and vegetables 
 - title: "Plant and Grow"
@@ -63,6 +65,7 @@
     url: "/plant-and-grow/plant-vegetables/"      
   - title: "Plant Herbs"
     url: "/plant-and-grow/plant-herbs/"   
+  dropdown-end: true
 
 #    side: left
 #    subdropdown:
@@ -132,6 +135,7 @@
   dropdown:
   - title: "Gardening 101"
     url: "/learn-and-explore/gardening-101/"
+  dropdown-end: true
 
 - title: Blog
   url: "/blog/"
