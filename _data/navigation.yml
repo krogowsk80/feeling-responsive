@@ -47,7 +47,6 @@
   dropdown-end: true
 ##
 ## Planting sub-headding with list of pages covering how to plant a variety of herbs and vegetables 
-
 - title: "Planting"
   url: "/plant-and-grow/"
   side: left
@@ -63,14 +62,12 @@
       - title: "Large Garden Guide"
         url: "/plant-and-grow/large-garden-guides/"
     subdropdown-end: true
-    - title: "Additional Planting Tips"
-      url: "/plant-and-grow/small-garden-guides/"
+    - title: "Plant Vegetables"
+      url: "/plant-and-grow/plant-vegetables/"      
+    - title: "Plant Herbs"
+      url: "/plant-and-grow/plant-herbs/"   
   dropdown-end: true
 #    subdropdown-end: true
-##    - title: "Plant Vegetables"
-##      url: "/plant-and-grow/plant-vegetables/"      
-##    - title: "Plant Herbs"
-##      url: "/plant-and-grow/plant-herbs/"   
 
 ##  drowpdown:
 ##    - title: "Planting Garlic"
