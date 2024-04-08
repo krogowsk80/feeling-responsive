@@ -54,6 +54,12 @@
   dropdown:
   - title: "Plant Guides"
     url: "/plant-and-grow/plant-guides/"
+  - title: "Plant Vegetables"
+    url: "/plant-and-grow/plant-vegetables/"      
+  - title: "Plant Herbs"
+    url: "/plant-and-grow/plant-herbs/"   
+  dropdown-end: true
+
 #    side: left
 #    subdropdown:
 #      - title: "Small Garden Guide"
@@ -64,12 +70,6 @@
 #        url: "/plant-and-grow/large-garden-guides/"
 #    subdropdown-end: true
 #  dropdown-end: true
-  - title: "Plant Vegetables"
-    url: "/plant-and-grow/plant-vegetables/"      
-  - title: "Plant Herbs"
-    url: "/plant-and-grow/plant-herbs/"   
-  dropdown-end: true
-
 ##  drowpdown:
 ##    - title: "Planting Garlic"
 ##      url: "/plant_and_grow/garlic/"
