@@ -53,7 +53,7 @@
   dropdown:
   - title: "Plant Guides"
     url: "/plant-and-grow/plant-guides/"
-    side: left
+#    side: left
     subdropdown:
       - title: "Small Garden Guide"
         url: "/plant-and-grow/small-garden-guides/"
@@ -62,11 +62,11 @@
       - title: "Large Garden Guide"
         url: "/plant-and-grow/large-garden-guides/"
     subdropdown-end: true
-    - title: "Plant Vegetables"
-      url: "/plant-and-grow/plant-vegetables/"      
-    - title: "Plant Herbs"
-      url: "/plant-and-grow/plant-herbs/"   
   dropdown-end: true
+#    - title: "Plant Vegetables"
+#      url: "/plant-and-grow/plant-vegetables/"      
+#    - title: "Plant Herbs"
+#      url: "/plant-and-grow/plant-herbs/"   
 #    subdropdown-end: true
 
 ##  drowpdown:
