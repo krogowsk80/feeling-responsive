@@ -1,12 +1,12 @@
 ## This Navigation page will define the structure of the heading bar for the site.
-
+##
 #- title: Start
 #  url: "/"
 #  side: left
 - title: Home
   url: "/"
   side: left
-
+##
 #- title: Getting Started
 #  url: "/getting-started/"
 #  side: left
@@ -42,7 +42,7 @@
 #    url: "/design/gallery/"
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
-
+##
 ## Planting sub-headding with list of pages covering how to plant a variety of herbs and vegetables 
 - title: "Plant & Grow"
   url: "/plant_and_grow/"
@@ -50,39 +50,39 @@
   dropdown:
     - title: "Plant Guides"
       url: "/plant_and_grow/plant_guides/"
-    dropdown:
-      - title: "Small Garden Guide"
-        url: "/plant_and_grow/small_garden_guides/"
-      - title: "Medium Garden Guide"
-        url: "/plant_and_grow/medium_garden_guides/"
-      - title: "Large Garden Guide"
-        url: "/plant_and_grow/large_garden_guides/"
+##    dropdown:
+##      - title: "Small Garden Guide"
+##        url: "/plant_and_grow/small_garden_guides/"
+##      - title: "Medium Garden Guide"
+##        url: "/plant_and_grow/medium_garden_guides/"
+##      - title: "Large Garden Guide"
+##        url: "/plant_and_grow/large_garden_guides/"
   - title: "Plant Vegetables"
     url: "/plant_and_grow/plant_vegetables/"
-  drowpdown:
-    - title: "Planting Garlic"
-      url: "/plant_and_grow/garlic/"
-    - title: "Planting Tomatoes"
-      url: "/plamting/tomatoes/"
-    - title: "Planting Onion"
-      url: "/plamting/onion/"
-    - title: "Planting Cucumbers"
-      url: "/plamting/cucumbers/"
-    - title: "Planting Peppers"
-      url: "/plamting/peppers/"
-    - title: "Planting Beats"
-      url: "/plamting/beets/"
-    - title: "Planting Carrots"
-      url: "/plamting/carrots/"
-    - title: "Planting Potatoes"
-      url: "/plamting/potatoes/"
-    - title: "Planting Beans"
-      url: "/plamting/beans/" 
-    - title: "Planting Basil"
-      url: "/plamting/basil/"
-    - title: "Planting salades"
-      url: "/plamting/salades/"
-
+##  drowpdown:
+##    - title: "Planting Garlic"
+##      url: "/plant_and_grow/garlic/"
+##    - title: "Planting Tomatoes"
+##      url: "/plamting/tomatoes/"
+##    - title: "Planting Onion"
+##      url: "/plamting/onion/"
+##    - title: "Planting Cucumbers"
+##      url: "/plamting/cucumbers/"
+##    - title: "Planting Peppers"
+##      url: "/plamting/peppers/"
+##    - title: "Planting Beats"
+##      url: "/plamting/beets/"
+##    - title: "Planting Carrots"
+##      url: "/plamting/carrots/"
+##    - title: "Planting Potatoes"
+##      url: "/plamting/potatoes/"
+##    - title: "Planting Beans"
+##      url: "/plamting/beans/" 
+##    - title: "Planting Basil"
+##      url: "/plamting/basil/"
+##    - title: "Planting salades"
+##      url: "/plamting/salades/"
+##
 #- title: "Header Styles"
 #  url: "/headers/"
 #  side: left
@@ -101,7 +101,7 @@
 #    url: "/design/no-header/"
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
-
+##
 #- title: Documentation
 #  url: "/documentation/"
 #  side: left
@@ -110,25 +110,26 @@
 #    url: "/changelog/"
 #  - title: "Roadmap"
 #    url: "/roadmap/"
-
+##
 - title: "Learn & Explore"
   url: "/learn_and_explore/"
   side: left
   dropdown:
   - title: "Gardening 101"
     url: "/blog/archive/"
-
+##
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
+##
 - title: "Search"
   url: "/search/"
   side: right
-
+##
 - title: "Contact"
   url: "/contact/"
   side: right
+##
