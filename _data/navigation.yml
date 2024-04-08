@@ -59,10 +59,10 @@
         url: "/plant-and-grow/medium-garden-guides/"
       - title: "Large Garden Guide"
         url: "/plant-and-grow/large-garden-guides/"
-    - title: "Plant Vegetables"
-      url: "/plant-and-grow/plant-vegetables/"      
-    - title: "Plant Herbs"
-      url: "/plant-and-grow/plant-herbs/"   
+##    - title: "Plant Vegetables"
+##      url: "/plant-and-grow/plant-vegetables/"      
+##    - title: "Plant Herbs"
+##      url: "/plant-and-grow/plant-herbs/"   
 
 ##  drowpdown:
 ##    - title: "Planting Garlic"
