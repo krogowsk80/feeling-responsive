@@ -46,6 +46,7 @@
     url: "/design/portfolio/"
 
 ## Planting sub-headding with list of pages covering how to plant a variety of herbs and vegetables 
+- title: "Plant and Grow"
   url: "/plant-and-grow/"
   side: left
   dropdown:
@@ -58,7 +59,6 @@
         url: "/plant-and-grow/medium-garden-guides/"
       - title: "Large Garden Guide"
         url: "/plant-and-grow/large-garden-guides/"
-    subdropdown-end: true
   - title: "Plant Vegetables"
     url: "/plant-and-grow/plant-vegetables/"      
   - title: "Plant Herbs"
