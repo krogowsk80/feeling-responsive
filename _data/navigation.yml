@@ -11,13 +11,13 @@
 #  url: "/getting-started/"
 #  side: left
 - title: "Gerden Design"
-  url: "/garden_design/"
+  url: "/garden-design/"
   side: left
   dropdown:
   - title: "Preparing a Raised Garden bed"
-    url: "/preparing/raised-garden-bed/"
+    url: "/garden-design/raised-garden-bed/"
   - title: "Preparing Raised Garden Soil"
-    url: "/preparing/raised-garden-soil/"
+    url: "/garden-design/raised-garden-soil/"
 #- title: "Templates"
 #  url: "/design/"
 #  side: left
@@ -45,11 +45,13 @@
 ##
 ## Planting sub-headding with list of pages covering how to plant a variety of herbs and vegetables 
 - title: "Plant & Grow"
-  url: "/plant_and_grow/"
+  url: "/plant-and-grow/"
   side: left
   dropdown:
     - title: "Plant Guides"
-      url: "/plant_and_grow/plant_guides/"
+      url: "/plant-and-grow/plant-guides/"
+    - title: "Plant Vegetables"
+      url: "/plant-and-grow/plant-vegetables/"      
 ##    dropdown:
 ##      - title: "Small Garden Guide"
 ##        url: "/plant_and_grow/small_garden_guides/"
@@ -57,8 +59,7 @@
 ##        url: "/plant_and_grow/medium_garden_guides/"
 ##      - title: "Large Garden Guide"
 ##        url: "/plant_and_grow/large_garden_guides/"
-  - title: "Plant Vegetables"
-    url: "/plant_and_grow/plant_vegetables/"
+
 ##  drowpdown:
 ##    - title: "Planting Garlic"
 ##      url: "/plant_and_grow/garlic/"
@@ -112,24 +113,23 @@
 #    url: "/roadmap/"
 ##
 - title: "Learn & Explore"
-  url: "/learn_and_explore/"
+  url: "/learn-and-explore/"
   side: left
   dropdown:
   - title: "Gardening 101"
-    url: "/blog/archive/"
-##
+    url: "/learn-and-explore/gardening-101/"
+
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-##
+
 - title: "Search"
   url: "/search/"
   side: right
-##
+
 - title: "Contact"
   url: "/contact/"
   side: right
-##
