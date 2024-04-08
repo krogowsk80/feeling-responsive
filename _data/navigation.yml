@@ -49,9 +49,10 @@
   url: "/plant-and-grow/"
   side: left
   dropdown:
-    - title: "Plant Guides"
-      url: "/plant-and-grow/plant-guides/"
-      dropdown:
+  - title: "Plant Guides"
+    url: "/plant-and-grow/plant-guides/"
+    side: left
+    dropdown:
       - title: "Small Garden Guide"
         url: "/plant-and-grow/small-garden-guides/"
       - title: "Medium Garden Guide"
