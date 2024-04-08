@@ -18,6 +18,7 @@
     url: "/garden-design/raised-garden-bed/"
   - title: "Preparing Raised Garden Soil"
     url: "/garden-design/raised-garden-soil/"    
+  dropdown-end: true
 ##
 - title: "Templates"
   url: "/design/"
@@ -53,6 +54,7 @@
   dropdown:
   - title: "Plant Guides"
     url: "/plant-and-grow/plant-guides/"
+    side: left
     subdropdown:
       - title: "Small Garden Guide"
         url: "/plant-and-grow/small-garden-guides/"
@@ -60,9 +62,9 @@
         url: "/plant-and-grow/medium-garden-guides/"
       - title: "Large Garden Guide"
         url: "/plant-and-grow/large-garden-guides/"
-      - title: "Additional Planting Tips"
-        url: "/plant-and-grow/small-garden-guides/"
     subdropdown-end: true
+    - title: "Additional Planting Tips"
+      url: "/plant-and-grow/small-garden-guides/"
   dropdown-end: true
 #    subdropdown-end: true
 ##    - title: "Plant Vegetables"
