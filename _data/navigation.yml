@@ -58,7 +58,7 @@
         url: "/plant-and-grow/medium-garden-guides/"
       - title: "Large Garden Guide"
         url: "/plant-and-grow/large-garden-guides/"
-    subdropdown-end: true
+#    subdropdown-end: true
     - title: "Additional Planting Tips"
       url: "/plant-and-grow/small-garden-guides/additional-tips/"
 
