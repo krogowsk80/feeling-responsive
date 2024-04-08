@@ -53,6 +53,8 @@
       url: "/plant-and-grow/plant-guides/"
     - title: "Plant Vegetables"
       url: "/plant-and-grow/plant-vegetables/"      
+    - title: "Plant Herbs"
+      url: "/plant-and-grow/plant-herbs/"   
 ##    dropdown:
 ##      - title: "Small Garden Guide"
 ##        url: "/plant_and_grow/small_garden_guides/"
