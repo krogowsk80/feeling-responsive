@@ -10,6 +10,7 @@
 #- title: Getting Started
 #  url: "/getting-started/"
 #  side: left
+
 - title: "Gerden Design"
   url: "/garden-design/"
   side: left
@@ -19,7 +20,7 @@
   - title: "Preparing Raised Garden Soil"
     url: "/garden-design/raised-garden-soil/"    
   dropdown-end: true
-##
+
 - title: "Templates"
   url: "/design/"
   side: left
@@ -45,7 +46,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
   dropdown-end: true
-##
+
 ## Planting sub-headding with list of pages covering how to plant a variety of herbs and vegetables 
 - title: "Planting"
   url: "/plant-and-grow/"
@@ -54,20 +55,20 @@
   - title: "Plant Guides"
     url: "/plant-and-grow/plant-guides/"
 #    side: left
-    subdropdown:
-      - title: "Small Garden Guide"
-        url: "/plant-and-grow/small-garden-guides/"
-      - title: "Medium Garden Guide"
-        url: "/plant-and-grow/medium-garden-guides/"
-      - title: "Large Garden Guide"
-        url: "/plant-and-grow/large-garden-guides/"
-    subdropdown-end: true
-  dropdown-end: true
-#    - title: "Plant Vegetables"
-#      url: "/plant-and-grow/plant-vegetables/"      
-#    - title: "Plant Herbs"
-#      url: "/plant-and-grow/plant-herbs/"   
+#    subdropdown:
+#      - title: "Small Garden Guide"
+#        url: "/plant-and-grow/small-garden-guides/"
+#      - title: "Medium Garden Guide"
+#        url: "/plant-and-grow/medium-garden-guides/"
+#      - title: "Large Garden Guide"
+#        url: "/plant-and-grow/large-garden-guides/"
 #    subdropdown-end: true
+#  dropdown-end: true
+  - title: "Plant Vegetables"
+    url: "/plant-and-grow/plant-vegetables/"      
+  - title: "Plant Herbs"
+    url: "/plant-and-grow/plant-herbs/"   
+  dropdown-end: true
 
 ##  drowpdown:
 ##    - title: "Planting Garlic"
